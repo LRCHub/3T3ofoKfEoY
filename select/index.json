@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "NIGHT RUNNING",
+  "base_artist": "Shin Sakiura",
+  "createdAt": "2026-01-01T15:07:35.067665Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Night Running",
+      "artist": "Cage The Elephant feat. Beck",
+      "has_synced": true,
+      "path": "select/01_Night_Running_Cage_The_Elephant_feat._Beck.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Night Running",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/02_Night_Running_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NIGHT RUNNING (TVアニメ『BNA ビー・エヌ・エー』EDテーマ)",
+      "artist": "Shin Sakiura",
+      "has_synced": true,
+      "path": "select/03_NIGHT_RUNNING_(TVアニメ『BNA_ビー・エヌ・エー』EDテーマ)_Shin_Sakiura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NIGHT RUNNING",
+      "artist": "Shin Sakiura feat. AAAMYYY",
+      "has_synced": true,
+      "path": "select/04_NIGHT_RUNNING_Shin_Sakiura_feat._AAAMYYY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NIGHT RUNNING (feat. Déesse louve)",
+      "artist": "日渡なずな(CV:長縄まりあ) feat. Déesse louve",
+      "has_synced": true,
+      "path": "select/05_NIGHT_RUNNING_(feat._Déesse_louve)_日渡なずな(CV_長縄まりあ)_feat._Déesse_louve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NIGHT RUNNING feat.Deesse louve",
+      "artist": "日渡なずな（CV.長縄まりあ）",
+      "has_synced": true,
+      "path": "select/06_NIGHT_RUNNING_feat.Deesse_louve_日渡なずな(CV.長縄まりあ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Night Running",
+      "artist": "Cage the Elephant feat. Beck",
+      "has_synced": true,
+      "path": "select/07_Night_Running_Cage_the_Elephant_feat._Beck.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Night Running (feat. Beck)",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/08_Night_Running_(feat._Beck)_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Night Running",
+      "artist": "Cage the Elephant & Beck",
+      "has_synced": true,
+      "path": "select/09_Night_Running_Cage_the_Elephant_&_Beck.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "NIGHT RUNNING (BNA Brand New Animal ED Theme)",
+      "artist": "Shin Sakiura feat. AAAMYYY",
+      "has_synced": true,
+      "path": "select/10_NIGHT_RUNNING_(BNA_Brand_New_Animal_ED_Theme)_Shin_Sakiura_feat._AAAMYYY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Night Running (With Beck)",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/11_Night_Running_(With_Beck)_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NIGHT RUNNING (feat. AAAMYYY)",
+      "artist": "Shin Sakiura",
+      "has_synced": true,
+      "path": "select/12_NIGHT_RUNNING_(feat._AAAMYYY)_Shin_Sakiura.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Night Running",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/13_Night_Running_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "NIGHT RUNNING",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/14_NIGHT_RUNNING_Sati_Akura.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "NIGHT RUNNING",
+      "artist": "Shin Sakiura feat. AAAMYYY",
+      "has_synced": true,
+      "path": "select/15_NIGHT_RUNNING_Shin_Sakiura_feat._AAAMYYY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Night Running",
+      "artist": "Cage The Elephant, Beck",
+      "has_synced": true,
+      "path": "select/16_Night_Running_Cage_The_Elephant,_Beck.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Night Running (Feat. John Park)",
+      "artist": "youra feat. John Park",
+      "has_synced": true,
+      "path": "select/17_Night_Running_(Feat._John_Park)_youra_feat._John_Park.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Night Running (Feat. 존박)",
+      "artist": "youra",
+      "has_synced": true,
+      "path": "select/18_Night_Running_(Feat._존박)_youra.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Night Running",
+      "artist": "Shin Sakiura",
+      "has_synced": true,
+      "path": "select/19_Night_Running_Shin_Sakiura.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Night Running",
+      "artist": "日渡なずな",
+      "has_synced": true,
+      "path": "select/20_Night_Running_日渡なずな.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NIGHT RUNNING",
+      "artist": "Shin Sakiura, AAAMYYY",
+      "has_synced": false,
+      "path": "select/pl_01_NIGHT_RUNNING_Shin_Sakiura,_AAAMYYY.txt"
+    }
+  ]
+}
